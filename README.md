@@ -41,5 +41,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e programador focado em 
 
 ### 📊 Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=DiegoBarbosa26&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/DiegoBarbosa26)
-[![Linguagens Mais Utilizadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiegoBarbosa26&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/DiegoBarbosa26)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DiegoBarbosa26&theme=tokyonight&hide_border=true" alt="Sequência no GitHub" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DiegoBarbosa26&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="165" />
+</p>
