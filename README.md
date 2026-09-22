@@ -41,7 +41,5 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e programador focado em 
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoBarbosa26&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBarbosa26&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="150" />
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=DiegoBarbosa26&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/DiegoBarbosa26)
+[![Linguagens Mais Utilizadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiegoBarbosa26&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/DiegoBarbosa26)
